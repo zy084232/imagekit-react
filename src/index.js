@@ -1,4 +1,5 @@
 import IKContext from './components/IKContext';
 import IKImage from './components/IKImage';
 import IKUpload from './components/IKUpload'
-export { IKContext, IKImage, IKUpload };
+import ImageKitComponent from './components/ImageKitComponent'
+export { IKContext, IKImage, IKUpload, ImageKitComponent};
